@@ -1,0 +1,248 @@
+[
+
+  {
+    "id": 1,
+    "name": "1984",
+    "price": 9.99,
+    "category": "Fiction",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+    "title": "1984 by George Orwell"
+  },
+  {
+    "id": 2,
+    "name": "To Kill a Mockingbird",
+    "price": 7.99,
+    "category": "Fiction",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81OdwZGep-L.jpg",
+    "title": "To Kill a Mockingbird by Harper Lee"
+  },
+  {
+    "id": 3,
+    "name": "The Great Gatsby",
+    "price": 10.99,
+    "category": "Fiction",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg",
+    "title": "The Great Gatsby by F. Scott Fitzgerald"
+  },
+  {
+    "id": 4,
+    "name": "Pride and Prejudice",
+    "price": 8.99,
+    "category": "Romance",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91hhCXj9dbL.jpg",
+    "title": "Pride and Prejudice by Jane Austen"
+  },
+  {
+    "id": 5,
+    "name": "The Catcher in the Rye",
+    "price": 6.99,
+    "category": "Fiction",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+    "title": "The Catcher in the Rye by J.D. Salinger"
+  },
+  {
+    "id": 6,
+    "name": "The Hobbit",
+    "price": 12.99,
+    "category": "Fantasy",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+    "title": "The Hobbit by J.R.R. Tolkien"
+  },
+  {
+    "id": 7,
+    "name": "Moby-Dick",
+    "price": 11.99,
+    "category": "Fiction",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71qO5Co2wfL.jpg",
+    "title": "Moby-Dick by Herman Melville"
+  },
+  {
+    "id": 8,
+    "name": "War and Peace",
+    "price": 13.99,
+    "category": "Historical Fiction",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81RQ0vwTpWL.jpg",
+    "title": "War and Peace by Leo Tolstoy"
+  },
+  {
+    "id": 9,
+    "name": "The Odyssey",
+    "price": 10.49,
+    "category": "Classic",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81tEgsxpNZS.jpg",
+    "title": "The Odyssey by Homer"
+  },
+  {
+    "id": 10,
+    "name": "Crime and Punishment",
+    "price": 9.49,
+    "category": "Fiction",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91mJp0oxZ1L.jpg",
+    "title": "Crime and Punishment by Fyodor Dostoevsky"
+  },
+  {
+    "id": 11,
+    "name": "The Divine Comedy",
+    "price": 14.99,
+    "category": "Classic",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91MVUo6mA6L.jpg",
+    "title": "The Divine Comedy by Dante Alighieri"
+  },
+  {
+    "id": 12,
+    "name": "Brave New World",
+    "price": 8.49,
+    "category": "Fiction",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81jwlq3eHJL.jpg",
+    "title": "Brave New World by Aldous Huxley"
+  },
+  {
+    "id": 13,
+    "name": "The Iliad",
+    "price": 10.99,
+    "category": "Classic",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71tbalAHYCL.jpg",
+    "title": "The Iliad by Homer"
+  },
+  {
+    "id": 14,
+    "name": "The Brothers Karamazov",
+    "price": 12.99,
+    "category": "Fiction",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91V7izkfZUL.jpg",
+    "title": "The Brothers Karamazov by Fyodor Dostoevsky"
+  },
+  {
+    "id": 15,
+    "name": "Jane Eyre",
+    "price": 7.99,
+    "category": "Romance",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91HHqVTAJTL.jpg",
+    "title": "Jane Eyre by Charlotte Brontë"
+  },
+  {
+    "id": 16,
+    "name": "Wuthering Heights",
+    "price": 9.99,
+    "category": "Romance",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81lF63Y3s9L.jpg",
+    "title": "Wuthering Heights by Emily Brontë"
+  },
+  {
+    "id": 17,
+    "name": "Meditations",
+    "price": 6.99,
+    "category": "Philosophy",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71sBtM3Yi5L.jpg",
+    "title": "Meditations by Marcus Aurelius"
+  },
+  {
+    "id": 18,
+    "name": "The Art of War",
+    "price": 5.99,
+    "category": "Philosophy",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81t2CVWEsUL.jpg",
+    "title": "The Art of War by Sun Tzu"
+  },
+  {
+    "id": 19,
+    "name": "The Prince",
+    "price": 7.49,
+    "category": "Philosophy",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71wzwt0HWlL.jpg",
+    "title": "The Prince by Niccolò Machiavelli"
+  },
+ 
+  {
+    "id": 20,
+    "name": "Self-Reliance",
+    "price": 4.99,
+    "category": "Self-Help",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71VY6r9UysL.jpg",
+    "title": "Self-Reliance by Ralph Waldo Emerson"
+  },
+
+  
+    {
+      "id": 21,
+      "name": "Frankenstein",
+      "price": 8.49,
+      "category": "Horror",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81C2xPDE2rL.jpg",
+      "title": "Frankenstein by Mary Shelley"
+    },
+    {
+      "id": 22,
+      "name": "Dracula",
+      "price": 7.99,
+      "category": "Horror",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91yhOwvLtsL.jpg",
+      "title": "Dracula by Bram Stoker"
+    },
+    {
+      "id": 23,
+      "name": "The Picture of Dorian Gray",
+      "price": 9.49,
+      "category": "Fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81xkRbsJ-LL.jpg",
+      "title": "The Picture of Dorian Gray by Oscar Wilde"
+    },
+    {
+      "id": 24,
+      "name": "Les Misérables",
+      "price": 10.99,
+      "category": "Historical Fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91cdpcKnscL.jpg",
+      "title": "Les Misérables by Victor Hugo"
+    },
+    {
+      "id": 25,
+      "name": "Don Quixote",
+      "price": 12.49,
+      "category": "Classic",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81vgFSkZYwL.jpg",
+      "title": "Don Quixote by Miguel de Cervantes"
+    },
+    {
+      "id": 26,
+      "name": "The Count of Monte Cristo",
+      "price": 11.99,
+      "category": "Adventure",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81bsw6fnUiL.jpg",
+      "title": "The Count of Monte Cristo by Alexandre Dumas"
+    },
+    {
+      "id": 27,
+      "name": "Anna Karenina",
+      "price": 10.49,
+      "category": "Romance",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91EUsyC9iAL.jpg",
+      "title": "Anna Karenina by Leo Tolstoy"
+    },
+    {
+      "id": 28,
+      "name": "The Stranger",
+      "price": 9.99,
+      "category": "Philosophy",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71G5Rje-pyL.jpg",
+      "title": "The Stranger by Albert Camus"
+    },
+    {
+      "id": 29,
+      "name": "The Old Man and The Sea",
+      "price": 8.99,
+      "category": "Fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81AFg3BfTwL.jpg",
+      "title": "The Old Man and The Sea by Ernest Hemingway"
+    },
+    {
+      "id": 30,
+      "name": "One Hundred Years of Solitude",
+      "price": 13.99,
+      "category": "Fiction",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81RSr7ZmS9L.jpg",
+      "title": "One Hundred Years of Solitude by Gabriel García Márquez"
+    }
+  
+  
+]

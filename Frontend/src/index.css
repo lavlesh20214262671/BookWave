@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+
+.book-image {
+  height: 300px !important; /* Set a fixed height */
+  width: 100% !important; /* Ensure the image fills the width of the container */
+  object-fit: cover !important; /* This will crop the image to fill the container while maintaining aspect ratio */
+  border-radius: 10px !important; /* Optional: Adjust to match your design */
+}
