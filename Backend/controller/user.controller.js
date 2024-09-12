@@ -21,6 +21,8 @@ export const signup = async(req, res) => {
                 fullname: createdUser.fullname,
                 email: createdUser.email,
             },
+
+            //
         });
     } catch (error) {
         console.log("Error: " + error.message);
